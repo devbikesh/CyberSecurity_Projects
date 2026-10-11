@@ -11,5 +11,12 @@ try:
         print("Address Type: Private")
     else:
         print("Address Type: Public")
+    if address.is_loopback:
+        print("Address Type: Loopback")
+    elif address.is_link_local:
+        print("Address Type: Link-Local")
+    elif address.is_reserved:
+        print("Address Type: Reserved")
+    
 except ValueError:
     print("Invalid IP address")
