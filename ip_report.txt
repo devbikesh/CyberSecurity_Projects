@@ -1,0 +1,5 @@
+===== IP ADDRESS REPORT =====
+     IP Address: 192.168.10.10
+     IP Version: 4
+     Address Type: Private
+     
