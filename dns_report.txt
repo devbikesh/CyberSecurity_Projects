@@ -1,0 +1,4 @@
+===== DNS LOOKUP REPORT =====
+Domain Name:google.com
+IP Addresses:
+['142.250.193.142']
